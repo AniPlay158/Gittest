@@ -1,1 +1,2 @@
-price
+milk-20
+bread-25
